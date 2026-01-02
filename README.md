@@ -3,7 +3,7 @@
 ## Objective
 The objective of this project is to statistically examine the association between demographic, clinical, lifestyle, and socioeconomic factors and diabetes risk using health survey data. Through exploratory data analysis, hypothesis testing, and logistic regression, the study aims to identify key factors that remain strongly associated with diabetes risk after adjusting for multiple variables.
 
-The data is taken from kaggle: Diabetes Health Indicators Dataset[https://www.kaggle.com/datasets/julnazz/diabetes-health-indicators-dataset/data]
+The data is taken from kaggle: [Diabetes Health Indicators Dataset](https://www.kaggle.com/datasets/julnazz/diabetes-health-indicators-dataset/data)
 
 ## Questions Explored
 In this analysis, the following questions are explored:
